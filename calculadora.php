@@ -45,8 +45,8 @@
     4* Solicite a entrada de um número e descubra se um número digitado é par ou ímpar.
     5* Faça um algoritmo PHP que receba os valores A e B, imprima-os em ordem crescente em relação aos seus valores. Exemplo, para A=5, B=4. Você deve imprimir na tela: "4 5".
     6* Efetue um algoritmo PHP que receba um valor digitado pelo usuário e verifique se esse valor é positivo, negativo ou igual a zero. Imprima na tela: “Valor Positivo”, “Valor Negativo”, “Igual a Zero”
-    7* Resolva um Exercício em PHP que receba os valores A, B, C e D. Efetue a soma entre A e C, a multiplicação entre B e D e verifique se o resultado da soma é maior, menor ou igual ao da multiplicação. Imprima: “A+C é maior que B+D”, “A+C é menor que B+D”, “A+C é igual a B+D”.
-    8* Crie um formulário em HTML que receba Nome, Ano de Nascimento e Sexo, e faça com que o PHP imprima o Nome, sexo e a idade;
+    7 Resolva um Exercício em PHP que receba os valores A, B, C e D. Efetue a soma entre A e C, a multiplicação entre B e D e verifique se o resultado da soma é maior, menor ou igual ao da multiplicação. Imprima: “A+C é maior que B+D”, “A+C é menor que B+D”, “A+C é igual a B+D”.
+    8 Crie um formulário em HTML que receba Nome, Ano de Nascimento e Sexo, e faça com que o PHP imprima o Nome, sexo e a idade;
 
     OBS.: Forma de enviar, crie uma pasta atividade02, e uma pasta para cada questão como uma index.php, depois transforme em rar. e anexe aqui na atividade. -->
 </body>
